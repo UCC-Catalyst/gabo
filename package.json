@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@har/cli": "^1.0.1",
+    "axios": "^1.5.1",
+    "har-validator": "^5.1.5",
+    "react-scripts": "^5.0.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
