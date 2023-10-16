@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          PUTANGINAMO
+         PUTANINGINAMO DIN
         </p>
         <a
           className="App-link"
